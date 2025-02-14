@@ -1,3 +1,4 @@
+
 # Countryinfo
 A responsive mobile application that allows users to explore detailed information about different countries worldwide. it displays key details such as the country's name, flag, population, capital, states and continent. This app countryinfo also allows user to customize the theme to dark or light mode
 
@@ -64,6 +65,7 @@ Ensure you have the following installed:
 
 # License
 This project is open-source and available under the MIT License.
+
 
 
 
